@@ -1,0 +1,174 @@
+#content{
+	margin-top: -62px;
+	padding-bottom: 0px;
+}
+
+#chart{
+	margin-top: 40px;
+}
+
+#gradient{
+	background: -webkit-linear-gradient(left,rgba(179,18,23,.9),rgba(229,45,39,1)); /*Safari*/
+    background: -o-linear-gradient(right,rgba(179,18,23,.9),rgba(229,45,39,1)); /*Opera 11-12*/
+    background: -moz-linear-gradient(right,rgba(179,18,23,.9),rgba(229,45,39,1)); /*Fx 3.6-15*/
+    background: linear-gradient(to right, rgba(179,18,23,.9), rgba(229,45,39,1)); /*Standard*/
+}
+
+
+.chartImg1{
+	margin-right: -5px;
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    -o-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+     
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    transition-property: transform;
+     
+    overflow:hidden;
+    z-index: 3;
+ } 
+
+ .chartImg3{
+	margin-left: -5px;
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    -o-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+     
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    transition-property: transform;
+     
+    overflow:hidden;
+    z-index: 3;
+ } 
+ 
+.chartImg1:hover{
+    -webkit-transform:rotate(-360deg);
+    -moz-transform:rotate(-360deg);
+    -o-transform:rotate(-360deg);
+}  
+
+.chartImg3:hover{
+    -webkit-transform:rotate(360deg);
+    -moz-transform:rotate(360deg);
+    -o-transform:rotate(360deg);
+}  
+
+.chartImg2{
+	margin-top: 87px;
+	display: none;
+	overflow:hidden;
+	z-index: 6;
+}
+
+#chart{
+    margin-top: 60px;
+}
+
+#services{
+	padding: 0px;
+}
+
+#afterChart h3{
+    font-size: 2em;
+    line-height: 1.5em;
+    margin-bottom: 100px;
+}
+
+#latest-work{
+    background: none repeat scroll 0 0 #31363A;
+}
+
+#latest-work h2{
+    color:white;
+}
+
+#arrowWhite{
+    margin-top: -125px;
+}
+
+#swapImage1, #swapImage2, #swapImage3, #swapImage4, #swapImage5, #swapImage6, #swapImage7, #swapImage8, #swapImage9, #swapImage10, #swapImage11 {
+    width: 281px;
+    height: 281px; 
+}
+
+.white{
+    line-height: 18px;
+}
+
+.navbar .nav > li > a {
+    margin-top: 39px;
+}
+
+blockquote{
+  font-size: 34px;
+  font-weight: 400;
+  line-height: 45px;
+  color: #333;
+  border: 0px;
+  margin-left: -20px;
+}
+
+#twitter blockquote{
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 38px;
+  color: #333;
+  border: 0px;
+}
+
+blockquote:before {
+    position:absolute;
+    display:block;
+    content: "\201C";
+    font-size:56px;
+    margin-left:-30px;
+    color:#333;
+    font-family:"Times New Roman", serif;
+    font-style: normal;
+}
+
+blockquote:after {
+    position:absolute;
+    display:inline;
+    content: "\201D";
+    font-size:56px;
+    color:#333;
+    font-family:"Times New Roman", serif;
+    font-style: normal;
+}
+
+#contactText{
+    margin-bottom: 50px;
+}
+
+#content2{
+   margin-top: -60px;
+}
+
+#content1 .row h3{
+    font-size: 30px;
+} 
+
+#arrowRed{
+    margin-top: -245px;
+}
+
+#bottom p {
+    color:white;
+}
+#marginTop40{
+    margin-top: 50px;
+}
+
+#tesImage{
+    margin-left: 40px;
+    height: 250px;
+    width: 250px;
+}
+
